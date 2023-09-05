@@ -116,8 +116,13 @@ iframe {
     gap: 3rem;
 }
 
+@media (max-width: 800px) {
+    #Pricing {
+        flex-wrap: wrap;
+    }
+}
+
 .product {
-    flex-wrap: wrap;
     margin-bottom: 2rem;
     text-align: center;
     display: flex;
