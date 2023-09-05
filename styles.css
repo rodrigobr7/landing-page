@@ -152,7 +152,7 @@ iframe {
     height: 4rem;
 }
 
-.form {
+#form {
     height: 15rem;
     display: flex;
     flex-direction: column;
