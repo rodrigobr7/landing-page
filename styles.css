@@ -168,6 +168,10 @@ input {
     height: 3rem;
 }
 
+#submit {
+    max-width: 17rem;
+}
+
 footer {
     padding-right: 1rem;
     display: flex;
